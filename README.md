@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruwindhu Dilanga Chandraratne 
 - 👀 I’m interested in Software Development and Machine Learning Development 
 - 🌱 I’m currently learning Artifical Intelligence and Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning Research and Artifical Intelligence Projects 
 - 📫 How to reach me Via LinkedIn or Twitter 
 - https://www.linkedin.com/in/ruwindhu-chandraratne/
 - https://twitter.com/RuwZeta
