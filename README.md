@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artifical Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning Research and Artifical Intelligence Projects 
 - 📫 How to reach me Via LinkedIn or Twitter 
-- https://www.linkedin.com/in/ruwindhu-chandraratne/
+- https://www.linkedin.com/in/ruwclk/
 - https://twitter.com/RuwZeta
 
 <!---
