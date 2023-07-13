@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruwindhu Dilanga Chandraratne
 - 👀 I’m interested in Data Analytics and Machine Learning Model Development
-- I love analyzing sports Data Including  :basketball: NBA
+- I love analyzing sports Data Including  :basketball: NBA and :video_game: esports 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning Research and Artificial Intelligence Projects 
 - 📫 How to reach me Via LinkedIn or Twitter 
