@@ -6,7 +6,7 @@
 - 📫 How to reach me Via LinkedIn or Twitter 
 - https://www.linkedin.com/in/ruwclk/
 - https://twitter.com/RuwZeta
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwzeta&size_weight=0.5&count_weight=0.5)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruwzeta)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
