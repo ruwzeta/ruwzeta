@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Ruwindhu Hettige Don</h1>
-<h3 align="center">As a Software Engineer at Metric Health Solutions, I develop scalable software solutions that address complex data integration and reporting challenges in the healthcare technology space. I leverage data-driven techniques to optimize development pipelines and collaborate with cross-functional teams to deliver software that aligns with critical stakeholder requirements.
+<p>As a Software Engineer at Metric Health Solutions, I develop scalable software solutions that address complex data integration and reporting challenges in the healthcare technology space. I leverage data-driven techniques to optimize development pipelines and collaborate with cross-functional teams to deliver software that aligns with critical stakeholder requirements.
 With 4+ years of combined experience spanning software engineering, data analytics, and research, I bring a unique perspective that bridges technical development with analytical insights. My expertise in ETL processes, statistical analysis, and data visualization enables me to create solutions that not only function effectively but also provide meaningful business value.
 Currently, I also serve as a Research Data Analyst at Georgian College, where I conduct advanced statistical analyses, build Power BI dashboards for stakeholder reporting, and lead innovative research projects exploring Large Language Models in academic operations. This dual role keeps me at the cutting edge of both software development and emerging AI technologies.
 My technical foundation includes a BEng in Software Engineering from Staffordshire University and graduate certificates in both Big Data Analytics and Artificial Intelligence from Georgian College. I've been recognized with awards, including the Innvo8 Competition for Innovative Data Analysis, reflecting my commitment to pushing boundaries in data-driven solutions.
 Core Competencies:
 Python • SQL • R • PySpark • Power BI • Tableau • Statistical Analysis • ETL Processes • Software Development • Data Integration • Cross-functional Collaboration
-I'm passionate about using technology and data to solve complex problems and drive strategic decision-making. Always eager to connect with fellow professionals who share an interest in the intersection of software engineering, data analytics, and emerging technologies.</h3>
+I'm passionate about using technology and data to solve complex problems and drive strategic decision-making. Always eager to connect with fellow professionals who share an interest in the intersection of software engineering, data analytics, and emerging technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwzeta&label=Profile%20views&color=0e75b6&style=flat" alt="ruwzeta" /> </p>
 
