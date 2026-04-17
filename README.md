@@ -121,7 +121,3 @@ Software Engineer at **Metric Health Solutions** building scalable data integrat
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruwzeta&theme=tokyonight&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruwzeta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
