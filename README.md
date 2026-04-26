@@ -27,9 +27,37 @@ Software Engineer at **Metric Health Solutions** building scalable data integrat
 - 📜 Graduate Certificates in Big Data Analytics & AI — Georgian College
 - 🏆 Innvo8 Competition Award for Innovative Data Analysis
 - 🤖 Running a small AI & Data Consulting agency helping SMBs integrate AI and analytics
+- 🧠 Building production LLM apps with **RAG, agents, tool use & evals** across OpenAI, Anthropic and open-weight models
+- ⚡ Daily driver of **coding agents** (Claude Code, Cursor, GitHub Copilot) for shipping faster end-to-end
 - 🏀 Passionate about sports analytics — NBA, Cricket & MLB
 - 💬 Ask me about **Python, C#, Machine Learning, Generative AI & Backend Development**
 - 💞 Open to collaborating on **ML Research and AI Projects**
+
+---
+
+## LLMs, Coding Agents & AI Projects
+
+Working with LLMs and agentic systems is a core part of my day-to-day — from prototyping to shipping production-grade workflows.
+
+**What I build with LLMs**
+- **Retrieval-Augmented Generation (RAG)** pipelines over healthcare and enterprise documents — chunking, hybrid search, reranking and grounded answer generation
+- **Agentic workflows** with tool use, function calling and multi-step planning (LangGraph, LlamaIndex, CrewAI, OpenAI Agents SDK, Anthropic Claude Agent SDK)
+- **Structured extraction & data enrichment** from unstructured clinical/operational data using JSON-mode and constrained decoding
+- **Evals & guardrails** — offline benchmarks, regression tests, prompt versioning and red-team prompts for safety
+- **Fine-tuning & adaptation** — LoRA/QLoRA on open-weight models (Llama, Mistral, Qwen) for domain-specific tasks
+- **Voice & multimodal** experiments combining Whisper, vision models and TTS
+
+**Coding agents I use**
+- **Claude Code** — primary terminal coding agent for repo-wide refactors, test generation, and end-to-end feature delivery
+- **Cursor** — IDE pair-programming, fast iterative edits and inline chat
+- **GitHub Copilot** — completions and PR review assistance
+- **Custom in-house agents** — built with Claude Agent SDK / OpenAI Agents SDK for automating internal workflows (data ingestion, report generation, support triage)
+
+**Selected AI projects**
+- **Healthcare reporting copilot** — natural-language → SQL over a clinical data warehouse with row-level security and grounded citations
+- **Document intelligence pipeline** — multi-modal extraction (PDFs, scans, tables) with vision-language models and structured output
+- **Sports analytics agent** — autonomous research agent that pulls live stats and generates pre-game NBA/Cricket briefings
+- **SMB AI starter kits** — RAG chatbots, lead-qualification agents and analytics copilots delivered via my consulting practice
 
 ---
 
@@ -100,6 +128,26 @@ Software Engineer at **Metric Health Solutions** building scalable data integrat
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+**LLMs, Agents & GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=flat-square&logo=weaviate&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=flat-square&logo=chroma&logoColor=white)
+
+**Coding Agents & Dev Productivity**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0AB5B5?style=flat-square&logo=codeium&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Testing & Tools**
 
