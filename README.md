@@ -144,10 +144,7 @@ Working with LLMs and agentic systems is a core part of my day-to-day — from p
 **Coding Agents & Dev Productivity**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0AB5B5?style=flat-square&logo=codeium&logoColor=white)
-![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Testing & Tools**
 
