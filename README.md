@@ -49,7 +49,7 @@ Working with LLMs and agentic systems is a core part of my day-to-day — from p
 
 **Coding agents I use**
 - **Claude Code** — primary terminal coding agent for repo-wide refactors, test generation, and end-to-end feature delivery
-- **Cursor** — IDE pair-programming, fast iterative edits and inline chat
+- **Codex** — primary terminal coding agent for repo-wide refactors, test generation, and end-to-end feature delivery
 - **GitHub Copilot** — completions and PR review assistance
 - **Custom in-house agents** — built with Claude Agent SDK / OpenAI Agents SDK for automating internal workflows (data ingestion, report generation, support triage)
 
