@@ -51,6 +51,7 @@ Working with LLMs and agentic systems is a core part of my day-to-day — from p
 - **Claude Code** — primary terminal coding agent for repo-wide refactors, test generation, and end-to-end feature delivery
 - **Codex** — primary terminal coding agent for repo-wide refactors, test generation, and end-to-end feature delivery
 - **GitHub Copilot** — completions and PR review assistance
+- **Codex** - Feature generation, ideation and high level code review
 - **Custom in-house agents** — built with Claude Agent SDK / OpenAI Agents SDK for automating internal workflows (data ingestion, report generation, support triage)
 
 **Selected AI projects**
