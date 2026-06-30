@@ -59,6 +59,7 @@ Working with LLMs and agentic systems is a core part of my day-to-day — from p
 - **Document intelligence pipeline** — multi-modal extraction (PDFs, scans, tables) with vision-language models and structured output
 - **Sports analytics agent** — autonomous research agent that pulls live stats and generates pre-game NBA/Cricket briefings
 - **SMB AI starter kits** — RAG chatbots, lead-qualification agents and analytics copilots delivered via my consulting practice
+- **Power Generation Prection Models** - Optimized ML and Deep Learning Models for power generation plants 
 
 ---
 
