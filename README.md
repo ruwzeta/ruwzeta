@@ -76,6 +76,7 @@ Working with LLMs and agentic systems is a core part of my day-to-day — from p
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Mojo]
 
 **Frontend & Mobile**
 
