@@ -21,7 +21,7 @@
 
 ## About Me
 
-Software Engineer at **Metric Health Solutions** building scalable data integration and reporting solutions for healthcare technology. I bring 4+ years of experience across software engineering, data analytics, and AI — bridging technical development with actionable business insights.
+Lead Software Engineer at **Metric Health Solutions** building scalable data integration and reporting solutions for healthcare technology. I bring 4+ years of experience across software engineering, data analytics, and AI — bridging technical development with actionable business insights.
 
 - 🎓 BEng Software Engineering — Staffordshire University
 - 📜 Graduate Certificates in Big Data Analytics & AI — Georgian College
