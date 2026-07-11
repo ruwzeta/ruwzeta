@@ -23,6 +23,8 @@
 
 Lead Software Engineer at **Metric Health Solutions** building scalable data integration and reporting solutions for healthcare technology. I bring 4+ years of experience across software engineering, data analytics, and AI — bridging technical development with actionable business insights.
 
+https://ruwindhuhettige.com 
+
 - 🎓 BEng Software Engineering — Staffordshire University
 - 📜 Graduate Certificates in Big Data Analytics & AI — Georgian College
 - 🏆 Innvo8 Competition Award for Innovative Data Analysis
